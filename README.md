@@ -2,7 +2,7 @@
 You can download the completed practical files for the personal blog and Todoz website here.
 
 GitBook:
-https://marcuswkl.gitbook.io/stc-weblaunch-2020-html/
+https://marcuswkl.gitbook.io/stc-weblaunch-2020-html
 
 Slides:
 https://slides.com/marcuswkl/stc-weblaunch-2020-html
